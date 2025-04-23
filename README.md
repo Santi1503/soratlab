@@ -1,4 +1,4 @@
-# Sorting Algorithms Visualizer
+# Sortlab - Sorting Algorithms Visualizer
 
 Una aplicación web interactiva para visualizar y entender diferentes algoritmos de ordenamiento a través de animaciones y ejemplos de código.
 
